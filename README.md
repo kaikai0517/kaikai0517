@@ -3,7 +3,7 @@
 
 - 💻 [My Website](https://kaster-blog.vercel.app/)
 
-- 🔭 I’m currently working on [my website](https://kaster-blog.vercel.app/)
+- 🔭 I’m currently working on []([https://kaster-blog.vercel.app/](https://modern-office.vercel.app/))
 
 - 🌱 I’m currently learning **web technology**
 
