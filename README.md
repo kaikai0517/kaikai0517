@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web technology**
 
-- 📫 How to reach me kai880517@gmail.com**
+- 📫 How to reach me cvb8881764@gmail.com**
 
 - 📓 CakeResume：https://www.cakeresume.com/me/cvb8881764
 
